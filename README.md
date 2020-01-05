@@ -7,7 +7,9 @@ Instagram 限時動態自動閱讀器
 
 # 發想
 
-![[發想於 Duncan Matthew Tubbs 堂妹的 Idea](https://www.facebook.com/duncan.m.tubbs/videos/vb.100012003341392/733223563754415/?type=2&video_source=user_video_tab)](idea.png)
+[![發想於 Duncan Matthew Tubbs 堂妹的 Idea](idea.png)](https://www.facebook.com/duncan.m.tubbs/videos/vb.100012003341392/733223563754415/?type=2&video_source=user_video_tab)
+
 
 # Demo
-![[](https://youtu.be/LpM9NUcYy0s)](demo.png)
+
+[![Youtube Demo](demo.png)](https://youtu.be/LpM9NUcYy0s)
